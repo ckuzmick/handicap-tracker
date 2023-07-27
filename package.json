@@ -5,7 +5,9 @@
   "description": "handicap-tracker",
   "author": "ckuzmick",
   "keywords": [
-    "gatsby"
+    "gatsby",
+    "golf",
+    "crls"
   ],
   "scripts": {
     "develop": "gatsby develop",
